@@ -1,6 +1,6 @@
 # Nabanita_RL Repository
 
-Welcome to the Nabanita_RL repository! This repository contains code implementations and notes related to Reinforcement Learning (RL). Whether you're a beginner or an experienced practitioner, you'll find resources here to enhance your understanding of RL concepts and applications.
+Welcome to the Nabanita's Reinforcement Learning repository! This repository contains code implementations and notes related to Reinforcement Learning (RL). Whether you're a beginner or an experienced practitioner, you'll find resources here to enhance your understanding of RL concepts and applications.
 
 ## Contents
 
